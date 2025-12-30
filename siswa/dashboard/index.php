@@ -438,9 +438,9 @@ foreach ($attendance_stats as $stat) {
     <aside id="sidebar" class="fixed top-0 left-0 h-screen w-64 glass-effect border-r border-purple-900/30 z-50 sidebar-transition -translate-x-full lg:translate-x-0">
         <div class="flex items-center justify-between p-4 lg:p-6 border-b border-purple-900/30">
             <div class="flex items-center gap-3">
-                <img src="../../assets/default/logo-smk40.png" alt="SMKN 40" class="h-8 lg:h-10 w-auto">
+                <img src="../../assets/default/logo_pesantren.jpg" alt="SMKN 40" class="h-8 lg:h-10 w-auto">
                 <div>
-                    <h1 class="font-semibold text-sm lg:text-base">SMKN 40</h1>
+                    <h1 class="font-semibold text-sm lg:text-base">Al-hanifiyyah</h1>
                     <p class="text-xs text-gray-400">Sistem Absensi</p>
                 </div>
             </div>

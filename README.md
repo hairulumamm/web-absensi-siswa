@@ -54,7 +54,7 @@ Aplikasi demo dapat diakses di:
 1. Clone repositori ini:
 
     ```bash
-    git clone https://github.com/faiz-hidayat/Web-Absensi.git
+    git clone https://github.com/hairulumamm/web-absensi-siswa
     ```
 
 2. Pindah ke direktori proyek:
@@ -133,12 +133,12 @@ Aplikasi demo dapat diakses di:
 
 ## 📸 Screenshot
 
-![Dashboard Admin](/screenshots/dashboard-admin.png)
-![Dashboard Siswa](/screenshots/dashboard-siswa.png)
+![Dashboard Admin](/screenshots/ssadmin.jpg)
+![Dashboard Siswa](/screenshots/sssiswa.jpg)
 
 ## 👨‍💻 Pengembang
 
-Dikembangkan oleh [Hairul umam](https://github.com/faiz-hidayat)
+Dikembangkan oleh [Hairul umam](https://github.com/hairulumamm)
 
 ## 📄 Lisensi
 
