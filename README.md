@@ -133,8 +133,8 @@ Aplikasi demo dapat diakses di:
 
 ## 📸 Screenshot
 
-![Dashboard Admin](/screenshots/ssadmin.jpg)
-![Dashboard Siswa](/screenshots/sssiswa.jpg)
+![Dashboard Admin](/screenshots/ss1.png)
+![Dashboard Siswa](/screenshots/ss2.png)
 
 ## 👨‍💻 Pengembang
 
