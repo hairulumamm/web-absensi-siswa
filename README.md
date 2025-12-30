@@ -4,12 +4,7 @@
 
 Sistem Informasi Absensi Siswa adalah aplikasi berbasis web yang dirancang untuk mempermudah pengelolaan kehadiran siswa di sekolah. Dengan antarmuka yang intuitif dan fitur lengkap, aplikasi ini memungkinkan admin dan siswa untuk mengelola dan memantau absensi secara efisien.
 
-## ✨ Demo
 
-Aplikasi demo dapat diakses di:
-
--   Portal Admin: [web-absensi.wuaze.com/admin](https://web-absensi.wuaze.com/admin/)
--   Portal Siswa: [web-absensi.wuaze.com/siswa](https://web-absensi.wuaze.com/siswa/)
 
 **Kredensial Login Admin:**
 
